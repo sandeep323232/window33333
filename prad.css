@@ -1,0 +1,72 @@
+/* ID Selectors */
+#title {
+  color: darkblue;
+  text-align: center;
+}
+
+#p1, #p2, #p3, #p4, #p5 {
+  color: green;
+  font-size: 18px;
+}
+
+#box1, #box2, #box3, #box4, #box5 {
+  background-color: lightblue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+/* Class Selectors */
+.title {
+  color: darkred;
+  text-align: center;
+}
+
+.text {
+  color: teal;
+  font-size: 18px;
+}
+
+.box {
+  background-color: pink;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+/* Tag Selectors */
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+p {
+  color: brown;
+  font-size: 18px;
+}
+
+div {
+  background-color: lightgreen;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+/* Navigation */
+nav {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
